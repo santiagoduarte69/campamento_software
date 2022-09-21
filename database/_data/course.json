@@ -1,0 +1,30 @@
+[
+{
+
+    "title" : "Course one",
+    "description" : "Course for PHP learning",
+    "weeks": 5,
+    "average_rating" : 4.5,
+      
+    "enroll_cost" : 10000,
+    "minimum_skill": "easy",
+    "bootcamps_id" : 2
+},
+{
+
+    "title" : "Course two",
+    "description" : "Course for Phyton learning",
+    "weeks": 3,             
+    "enroll_cost" : 20000,
+    "minimum_skill": "easy",
+    "bootcamps_id" : 2
+},
+{
+    "title" : "Course three",
+    "description" : "Course for Java learning",
+    "weeks": 2,
+    "enroll_cost" : 22000,
+    "minimum_skill": "easy",
+    "bootcamps_id" : 2
+}
+]
